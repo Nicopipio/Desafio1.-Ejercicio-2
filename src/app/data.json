@@ -1,0 +1,99 @@
+[
+    {
+      "//comentario": "Este es el JSON en el cual se almacenan todos los datos",
+      "id": 1,
+      "title": "Bubble Tea",
+      "price": 4,
+      "info": "El Bubble Tea es una bebida taiwanesa con té, leche, azúcar y perlas de tapioca. Se sirve frío y destaca por las perlas masticables en el fondo. Es refrescante y tiene diversos sabores. Es una bebida refrescante y versátil con una amplia variedad de sabores.",
+      "urlImage": "https://bakewithshivesh.com/wp-content/uploads/2022/11/buuble-tea.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Dalgona",
+      "price": 5,
+      "info": "La bebida Dalgona es una bebida fría coreana que se destaca por su capa superior espumosa y cremosa. Se prepara batiendo café instantáneo, azúcar y agua caliente hasta obtener una mezcla espumosa, que luego se coloca sobre leche y hielo.",
+      "urlImage": "https://img.freepik.com/fotos-premium/cafe-dalgona-sobre-fondo-color-muy-peri-jarra-leche-bebida-coreana_491483-360.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "La leche de fresa",
+      "price": 4.50,
+      "info": "La leche de fresa es una bebida láctea que combina leche con el sabor natural o artificial de las fresas. Puede encontrarse en diversas formas, como leche con sabor a fresa, batidos de leche y fresa. La leche de fresa a menudo se disfruta por su sabor dulce y frutal.",
+      "urlImage": "https://media.istockphoto.com/id/1255401209/es/foto/vidrio-con-batido-de-fresa-o-batido.jpg?s=612x612&w=0&k=20&c=h183pjQ_bA_E8zBW4fLUCl47LFcdS1L1VZzC5MXTi7o=",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Matcha Latte",
+      "price": 5.50,
+      "info": "El Matcha Latte es una bebida caliente que combina té verde molido (matcha) con leche caliente. Se prepara mezclando el matcha con una pequeña cantidad de leche para crear una pasta, luego se agrega el resto de la leche caliente y se mezcla bien. Puede endulzarse según el gusto.",
+      "urlImage": "https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Té Chai",
+      "price": 4.80,
+      "info": "El Té Chai es una bebida originaria de la India compuesta por té (negro, verde o de hierbas), especias como canela, cardamomo, clavo, jengibre y pimienta negra, leche y opcionalmente endulzantes. Se prepara cociendo las especias y el té en agua, luego se añade leche para crear una base cremosa.",
+      "urlImage": "https://midwestniceblog.com/wp-content/uploads/2022/09/homemade-dirty-chai-latte-recipe.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "Té de Jazmín",
+      "price": 3.50,
+      "info": "El té de jazmín es una bebida tradicional china que combina té verde con flores de jazmín. Durante el proceso de fabricación, las flores infunden su aroma natural en las hojas de té. Al preparar la bebida, las hojas se infusionan en agua caliente, liberando un sabor suave y una fragancia floral distintiva.",
+      "urlImage": "https://monkites.com/wp-content/uploads/portada-te-jazmin.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Mochi",
+      "price": 6,
+      "info": "El mochi es un dulce japonés hecho de harina de arroz glutinoso. La masa se prepara mezclando harina de arroz glutinoso con agua y azúcar, y luego se cocina al vapor o se hierve hasta obtener una consistencia elástica y pegajosa. Se forman pequeñas porciones que pueden rellenarse con ingredientes dulces o salados, como pasta de judías dulces, frutas, helado o incluso carne.",
+      "urlImage": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/3/9/44ebfdb8-1022-4d8c-998a-7303f3157c88.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "title": "Anmitsu",
+      "price": 3.80,
+      "info": "El anmitsu es un postre japonés que combina kanten (gelatina de agar-agar), anko (pasta dulce de judías rojas), frutas frescas y mitsumame (jarabe dulce). Se presenta en un tazón con cubos de kanten, anko, frutas y jarabe. La combinación de estos ingredientes crea una experiencia de sabor equilibrada y refrescante. El anmitsu es apreciado por su presentación visual atractiva.",
+      "urlImage": "https://www.shutterstock.com/image-photo/japanese-food-anmitsu-260nw-462954574.jpg",
+      "quantity": 1
+    },
+    {
+        "id": 9,
+        "title": "Taiyaki",
+        "price": 4.20,
+        "info": "El Taiyaki es un popular postre japonés que tiene forma de pez y está hecho con una masa similar a la de panqueques o waffles. Se rellena comúnmente con anko (pasta de judías dulces), crema, chocolate u otros ingredientes. La masa se cocina en un molde especial, creando una textura crujiente en el exterior y un interior suave. Se sirve caliente y puede estar decorado con azúcar, jarabe o helado.",
+        "urlImage":"https://i.pinimg.com/564x/5e/f0/22/5ef022c619a7fead12ade0fadab7a70b.jpg",
+        "quantity":1
+    },
+    {
+        "id": 10,
+        "title": "Katsu Sando",
+        "price": 5,
+        "info": "El Katsu Sando es un popular sandwich japonés que consiste en filetes empanizados (katsu), tradicionalmente de cerdo o pollo, colocados entre rebanadas de pan de molde blanco. Se caracteriza por su sencillez y delicioso sabor. La salsa tonkatsu, una salsa espesa y sabrosa, se agrega al interior del sandwich para darle más sabor. El Katsu Sando es conocido por su presentación elegante y a menudo se corta en triángulos antes de ser servido.",
+        "urlImage": "https://i.blogs.es/e3a737/katsu-sando/1366_2000.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "title": "Roti John",
+        "price": 7.50,
+        "info": "Roti John es una variante de sándwich originaria de Singapur y Malasia. Este plato se compone de carne picada (generalmente pollo o carne de res) mezclada con huevo y especias, que se extiende sobre un pan baguette o pan de molde. La mezcla de carne y huevo se cocina en una plancha hasta que esté bien cocida y se sirve como un sándwich sabroso y lleno de sabor. Es comúnmente acompañado con salsas como salsa de tomate, mayonesa o salsa picante.",
+        "urlImage": "https://www.emborg.com/app/uploads/2023/07/1200x900px_Roti_John_Cheese.png",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "title": "Bánh Mì",
+        "price": 7.50,
+        "info": "El Bánh Mì es un sándwich vietnamita que combina una baguette crujiente con una variedad de ingredientes deliciosos. Suele incluir carne, como cerdo asado o pollo, vegetales frescos como zanahorias encurtidas y pepinos, cilantro y salsas como mayonesa, paté y salsa de pescado. Este sándwich refleja la influencia francesa en Vietnam y se destaca por su equilibrio de sabores y texturas. Hay diferentes variantes con opciones de carne y versiones vegetarianas.",
+        "urlImage": "https://www.pequerecetas.com/wp-content/uploads/2023/08/banh-mi-bocadillo-de-ternera-vietnamita.jpeg",
+        "quantity": 1
+      }
+    ]
